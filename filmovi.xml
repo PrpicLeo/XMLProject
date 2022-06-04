@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILMOVI>
+  <FILM>
+    <NAZIV>The Matrix</NAZIV>
+    <REDATELJ>Lana Wachowski i Lilly Wachowski</REDATELJ>
+    <SCENARIST>Lilly Wachowski i Lana Wachowski</SCENARIST>
+    <GLUMCI>Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss</GLUMCI>
+    <GODINA>1999</GODINA>
+    <TRAJANJE>Dva sata i šesnaest minuta</TRAJANJE>
+    <ZANR>ZF, Akcija</ZANR>
+    <OCJENA>8.7</OCJENA>
+    <POPULARNOST>246</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>Gladijator</NAZIV>
+    <REDATELJ>Ridley Scott</REDATELJ>
+    <SCENARIST>David Franzoni(story), John Logan(screenplay), William Nicholson</SCENARIST>
+    <GLUMCI>Russell Crowe, Joaquin Phoenix, Connie Nielsen</GLUMCI>
+    <GODINA>2000</GODINA>
+    <TRAJANJE>Dva sata i tridesetpet minuta</TRAJANJE>
+    <ZANR>Drama, Avantura, Akcija</ZANR>
+    <OCJENA>8.5</OCJENA>
+    <POPULARNOST>208</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>Hrabrosrce</NAZIV>
+    <REDATELJ>Mel Gibson</REDATELJ>
+    <SCENARIST>Randall Wallace</SCENARIST>
+    <GLUMCI>Mel Gibson, Sophie Marceau, Patrick McGoohan</GLUMCI>
+    <GODINA>1995</GODINA>
+    <TRAJANJE>Dva sata i pedesetosam minuta</TRAJANJE>
+    <ZANR>Biografija, Drama, Povijest</ZANR>
+    <OCJENA>8.4</OCJENA>
+    <POPULARNOST>447</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>Equilibrium</NAZIV>
+    <REDATELJ>Kurt Wimmer</REDATELJ>
+    <SCENARIST>Kurt Wimmer</SCENARIST>
+    <GLUMCI>Christian Balec, Sean Bean, Emily Watson</GLUMCI>
+    <GODINA>2002</GODINA>
+    <TRAJANJE>Jedan sat i četrdesetsedam minuta</TRAJANJE>
+    <ZANR>ZF, Drama, Akcija</ZANR>
+    <OCJENA>7.4</OCJENA>
+    <POPULARNOST>1786</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>Jurassic World Dominion</NAZIV>
+    <REDATELJ>Kurt Wimmer</REDATELJ>
+    <SCENARIST>Kurt Wimmer</SCENARIST>
+    <GLUMCI>Christian Balec, Sean Bean, Emily Watson</GLUMCI>
+    <GODINA>2002</GODINA>
+    <TRAJANJE>Jedan sat i četrdesetsedam minuta</TRAJANJE>
+    <ZANR>ZF, Drama, Akcija</ZANR>
+    <OCJENA>7.4</OCJENA>
+    <POPULARNOST>1786</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>The Righteous</NAZIV>
+    <REDATELJ>Kurt Wimmer</REDATELJ>
+    <SCENARIST>Kurt Wimmer</SCENARIST>
+    <GLUMCI>Christian Balec, Sean Bean, Emily Watson</GLUMCI>
+    <GODINA>2002</GODINA>
+    <TRAJANJE>Jedan sat i četrdesetsedam minuta</TRAJANJE>
+    <ZANR>ZF, Drama, Akcija</ZANR>
+    <OCJENA>7.4</OCJENA>
+    <POPULARNOST>1786</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>The Godfather</NAZIV>
+    <REDATELJ>Francis Ford Coppola</REDATELJ>
+    <SCENARIST>Mario Puzo(screenplay by), Francis Ford Coppola(screenplay by)</SCENARIST>
+    <GLUMCI>Marlon Brando, Al Pacino, James Caan</GLUMCI>
+    <GODINA>2002</GODINA>
+    <TRAJANJE>Dva sata i pedesetpet minuta</TRAJANJE>
+    <ZANR>Drama, Crime</ZANR>
+    <OCJENA>9.2</OCJENA>
+    <POPULARNOST>39</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>The Dark Knight</NAZIV>
+    <REDATELJ>Christopher Nolan</REDATELJ>
+    <SCENARIST>Jonathan Nolan(screenplay), Christopher Nolan(screenplay), David S. Goyer(story)</SCENARIST>
+    <GLUMCI>Christian Bale, Heath Ledger, Aaron Eckhart</GLUMCI>
+    <GODINA>2008</GODINA>
+    <TRAJANJE>Dva sata i tridesetdvije minute</TRAJANJE>
+    <ZANR>Akcija, Drama, Crime</ZANR>
+    <OCJENA>9.0</OCJENA>
+    <POPULARNOST>107</POPULARNOST>
+  </FILM>
+  <FILM>
+    <NAZIV>Schindler's List</NAZIV>
+    <REDATELJ>Steven Spielberg</REDATELJ>
+    <SCENARIST>Thomas Keneally(book), Steven Zaillian(screenplay)</SCENARIST>
+    <GLUMCI>Liam Neeson, Ralph Fiennes, Ben Kingsley</GLUMCI>
+    <GODINA>1993</GODINA>
+    <TRAJANJE>Tri sata i petnaest minuta</TRAJANJE>
+    <ZANR>Biografija, drama, povijest</ZANR>
+    <OCJENA>9.0</OCJENA>
+    <POPULARNOST>243</POPULARNOST>
+  </FILM>
+  
+  
+</FILMOVI>
